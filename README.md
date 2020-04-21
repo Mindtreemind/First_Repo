@@ -1,4 +1,4 @@
-##The Unix course assignment
+The Unix course assignment
 
 make date:Tue, Apr 21, 2020  4:46:27 PM 
 
